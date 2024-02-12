@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="{% url 'fileapp:uploadsf' %}" method="POST" enctype="multipart/form-data">
+
+
+
+      <input type="text" name="filedesc" placeholder="ENTER DEPARTMENT">
+        
+      <br>
+      
+        <input type="text" name="Roll_No" placeholder="ENTER ROLL NO ">
+        
+        <br>
+
+        <input type="text" name="FirstName" placeholder="ENTER FULL NAME">
+        
+        <br>
+        
+        
+        
+        <input type="text" name="filename" placeholder="ENTER PAYED FEES">
+
+        <br>
+        
+        <input type="file" multiple name="uploadfiles">
+        {% csrf_token %}
+        
+        <br><br>
+
+        <button type="submit">upload files</button>
+    </form>
+    
+</body>
+</html>
+
+
+
+
+
+

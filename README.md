@@ -1,8 +1,4 @@
 
-
-
-
-
 ## SCRENSHOTS
 
 <div style="width: 60px; height: 60px;">
@@ -25,8 +21,8 @@
 - [Wedding](https://github.com/mipashyayalmar/pashya/blob/main/README.md)
 - [Alexa](#)
 - [Data Analysis](#)
-- [E-Notes System](#)
-- [Feedback collecting](#)
+- [E-Notes System](http://riteshmasal.pythonanywhere.com/)
+- [Feedback collecting](https://github.com/mipashyayalmar/TeacherFeedback/edit/master/)
 - 
 
 

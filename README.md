@@ -1,4 +1,4 @@
-
+![Screenshot 2024-03-02 222246](https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/4ba6f7fc-348d-4b26-938c-affe4213cb27)
 ## My Other Projects On Github:-
 - [Web Design](#)
 - [Fashion](#)
@@ -14,7 +14,7 @@
 ## SCRENSHOTS
 
 <div style="width: 60px; height: 60px;">
-    <img src="https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/5efdd6b6-973f-4a51-8ab7-5437ae02c395" alt="Screenshot 1">
+    <img src="https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/2aa39e3a-eb2f-4fee-83ba-5923f758db79" alt="Screenshot 1">
 </div>
 
 <div style="width: 60px; height: 60px;">
@@ -24,3 +24,19 @@
 <div style="width: 60px; height: 60px;">
     <img src="" alt="Screenshot 3">
 </div>!
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-03-02 222246](https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/2aa39e3a-eb2f-4fee-83ba-5923f758db79)
+
+
+
+
+

@@ -1,14 +1,6 @@
 ![Screenshot 2024-03-02 222246](https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/4ba6f7fc-348d-4b26-938c-affe4213cb27)
-## My Other Projects On Github:-
-- [Web Design](#)
-- [Fashion](#)
-- [E-Commerce](#)
-- [Wedding](https://github.com/mipashyayalmar/pashya/blob/main/README.md)
-- [Alexa](#)
-- [Data Analysis](#)
-- [E-Notes System](#)
-- [Feedback collecting](#)
-- 
+
+
 
 
 ## SCRENSHOTS
@@ -22,19 +14,26 @@
 </div>
 
 <div style="width: 60px; height: 60px;">
-    <img src="" alt="Screenshot 3">
+    <img src="https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/3bbc4ef1-6617-4dd4-9067-baed5037ac04" alt="Screenshot 3">
 </div>!
 
 
 
 
+## My Other Projects On Github:-
+- [Web Design](#)
+- [Fashion](#)
+- [E-Commerce](#)
+- [Wedding](https://github.com/mipashyayalmar/pashya/blob/main/README.md)
+- [Alexa](#)
+- [Data Analysis](#)
+- [E-Notes System](#)
+- [Feedback collecting](#)
+- 
 
 
 
 
-
-
-![Screenshot 2024-03-02 222246](https://github.com/mipashyayalmar/TeacherFeedback/assets/152699596/2aa39e3a-eb2f-4fee-83ba-5923f758db79)
 
 
 
